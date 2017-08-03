@@ -1,0 +1,2 @@
+# hide secret key to local machine
+mysite/mysite/settings_secret.py
